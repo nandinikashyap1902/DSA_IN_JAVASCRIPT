@@ -1,0 +1,1 @@
+//Write a program to find the second highest number in an array in Java
